@@ -4,7 +4,7 @@ Dev Ops Project
 
 1.Develop a Web Application:
 
--You and your team need to build (or use an existing) web application to serve as the base for demonstrating DevOps practices.
+-Build F1 Driver List web application to serve as the base for demonstrating DevOps practices.
 
 2.Implement DevOps Practices:
 
